@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ansafhassan/Documents/Semester VI/Introduction to Information Securities/trivium",
+      "program": "/Users/ansafhassan/Documents/Semester VI/Introduction to Information Securities/trivium/build/Debug/outDebug"
+    }
+  ]
+}
